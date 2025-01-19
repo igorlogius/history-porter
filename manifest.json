@@ -1,0 +1,23 @@
+{
+  "author": "igorlogius",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_area": "navbar"
+  },
+  "description": "Import or export your browsing history",
+  "homepage_url": "https://github.com/igorlogius/history-porter",
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2,
+  "options_ui": {
+    "browser_style": true,
+    "open_in_tab": true,
+    "page": "options.html"
+  },
+  "name": "History Porter",
+  "permissions": ["history"],
+  "version": "1.0.0"
+}
