@@ -6,10 +6,13 @@ Import or export browsing history
 
 <b>Short Demo Video:</b>
 
-tbd.
+[demo-2025-01-20_18.16.33.webm](https://github.com/user-attachments/assets/b79d4828-5d10-41bf-9a27-98b74bdcd04f)
 
 <b>Quick Start Instructions:</b>
 <ol>
-  <li>tbd.</li>
+  <li>Click the toolbar button</li>
+  <li>Click the  Import or Export Button</li>
 </ol>
+
+<b><a href="https://github.com/igorlogius/igorlogius/blob/main/Additional-Notes.md">Some additional notes & hints</a></b>
 
